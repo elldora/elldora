@@ -19,5 +19,23 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: "To learn is to do, to do is to unlearn!" 🚀
 
-<!-- Your repositories, achievements, and more can be added below this section. -->
+<!-- My Skills Section -->
 
+### Skills 🚀
+
+- **Programming Languages:** Python, C#, R
+- **Data Analysis:** Pandas, NumPy, SQL
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch, Huggingface
+- **Deep Learning:** Keras, Neural Networks, CNNs, RNNs, BERT
+- **Prompt Engineering:** GPT, LLMs
+- **Web Technologies:** HTML, CSS, JavaScript, Django
+- **API Development and Testing:** Postman, Swagger, FastAPI
+- **Version Control:** Git, GitHub
+- **Tools & Libraries:** Jupyter, VS Code, Git Bash, ElasticSearch
+- **Cloud Platforms:** AzureML
+- **Operating Systems:** Linux, Windows
+- **DevOps and MLOps:** Docker, Mlflow
+
+<!-- My Repositories: -->
+<!-- My Achivements: -->
